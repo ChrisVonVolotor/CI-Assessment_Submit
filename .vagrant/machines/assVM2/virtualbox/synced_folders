@@ -1,0 +1,1 @@
+{"virtualbox":{"/tmp/shared":{"guestpath":"/tmp/shared","hostpath":"C:/Users/Admin/Documents/Assessment/shared","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/Admin/Documents/Assessment","disabled":false,"__vagrantfile":true}}}
